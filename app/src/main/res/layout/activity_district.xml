@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F9FF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!-- HEADER -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#E3F2FD"
+            android:padding="20dp"
+            android:orientation="vertical"
+            android:elevation="6dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="📍 Select District"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="#0D47A1"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Choose where the hero belongs"
+                android:textSize="14sp"
+                android:textColor="#546E7A"
+                android:layout_gravity="center"
+                android:layout_marginTop="6dp"/>
+
+        </LinearLayout>
+
+        <!-- BUTTONS -->
+        <Button
+            android:id="@+id/btnBengaluru"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="🏙️ Bengaluru"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:backgroundTint="#B3E5FC"
+            android:textColor="#01579B"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btnMysuru"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="🏰 Mysuru"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:backgroundTint="#FFCDD2"
+            android:textColor="#B71C1C"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btnUdupi"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="🌴 Udupi"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:backgroundTint="#C8E6C9"
+            android:textColor="#1B5E20"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btnHampi"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="🏛️ Hampi"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:backgroundTint="#FFE0B2"
+            android:textColor="#E65100"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btnBelagavi"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="🌄 Belagavi"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:backgroundTint="#D1C4E9"
+            android:textColor="#4527A0"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btnShivamogga"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="🌳 Shivamogga"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:backgroundTint="#B2DFDB"
+            android:textColor="#004D40"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btnChitradurga"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="🏯 Chitradurga"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:backgroundTint="#FFF9C4"
+            android:textColor="#F57F17"/>
+
+    </LinearLayout>
+
+</ScrollView>

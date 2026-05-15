@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Namma Kathey"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NammaKatheyNationalPride">
+
+        <!-- ⭐ LOGIN FIRST SCREEN (ENTRY POINT) -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+        <!-- Splash (optional now, NOT launcher) -->
+        <activity
+            android:name=".SplashActivity"
+            android:exported="false" />
+
+        <!-- Main Screen -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+
+        <!-- Hero Screen -->
+        <activity
+            android:name=".HeroActivity"
+            android:exported="false" />
+
+        <!-- Story Screen -->
+        <activity
+            android:name=".StoryActivity"
+            android:exported="false" />
+
+        <!-- Quiz Screen -->
+        <activity
+            android:name=".QuizActivity"
+            android:exported="false" />
+
+        <!-- Result Screen -->
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+
+        <!-- Badge Screen -->
+        <activity
+            android:name=".BadgeActivity"
+            android:exported="false" />
+
+        <!-- District Screen -->
+        <activity
+            android:name=".DistrictActivity"
+            android:exported="false" />
+
+    </application>
+
+</manifest>

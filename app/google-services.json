@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425636255829",
+    "project_id": "nammakathey--nationalpride",
+    "storage_bucket": "nammakathey--nationalpride.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425636255829:android:1cbde58e6e8c9d6d0c9cdc",
+        "android_client_info": {
+          "package_name": "com.example.namma_katheynationalpride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqbwrlcB5swkzYQPl35dLBZPm5YmzLpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

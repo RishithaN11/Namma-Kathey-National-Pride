@@ -1,0 +1,455 @@
+{
+  "heroes": {
+
+    "hero1": {
+      "name": "Kempegowda",
+
+      "district": "bengaluru",
+
+      "storyEnglish": "Kempegowda was a great ruler and the founder of Bengaluru. He lived during the Vijayanagara Empire period and is remembered for building the strong foundation of the city. At that time Bengaluru was only a small settlement, but Kempegowda had a big vision for its future. He built forts, lakes, temples, roads, and marketplaces to help people live peacefully and improve trade and farming. He also constructed watch towers around the city to mark its boundaries. His leadership and planning helped Bengaluru grow into one of the most important cities in India. Even today, Kempegowda is respected as the architect of Bengaluru and a symbol of Karnataka pride.",
+
+      "storyKannada": "ಕೆಂಪೇಗೌಡರು ಬೆಂಗಳೂರಿನ ಸ್ಥಾಪಕರಾಗಿ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ. ಅವರು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಕಾಲದಲ್ಲಿ ಬದುಕಿದ ಶ್ರೇಷ್ಠ ಆಡಳಿತಗಾರರು. ಆ ಸಮಯದಲ್ಲಿ ಬೆಂಗಳೂರು ಸಣ್ಣ ಪಟ್ಟಣವಾಗಿದ್ದರೂ, ಅದನ್ನು ದೊಡ್ಡ ನಗರವನ್ನಾಗಿ ಮಾಡುವ ಕನಸನ್ನು ಅವರು ಕಂಡಿದ್ದರು. ಜನರ ಜೀವನ ಸುಧಾರಿಸಲು ಕೋಟೆಗಳು, ಕೆರೆಗಳು, ದೇವಾಲಯಗಳು, ರಸ್ತೆ ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು. ನಗರದ ಗಡಿಗಳನ್ನು ಗುರುತಿಸಲು ನಾಲ್ಕು ಗೋಪುರಗಳನ್ನು ಕಟ್ಟಿದರು. ಅವರ ದೂರದೃಷ್ಟಿ ಮತ್ತು ನಾಯಕತ್ವದಿಂದ ಬೆಂಗಳೂರು ಭಾರತದ ಪ್ರಮುಖ ನಗರಗಳಲ್ಲಿ ಒಂದಾಗಿ ಬೆಳೆದಿತು. ಇಂದು ಕೂಡ ಕರ್ನಾಟಕದ ಜನರು ಅವರನ್ನು ಗೌರವದಿಂದ ಸ್ಮರಿಸುತ್ತಾರೆ.",
+
+      "statueLocation": "Kempegowda Tower, Bengaluru, Karnataka",
+
+      "quiz": [
+        {
+          "question": "Who founded Bengaluru?",
+          "options": [
+            "Kempegowda",
+            "Kuvempu",
+            "Rajkumar",
+            "Basavanna"
+          ],
+          "answer": "Kempegowda"
+        },
+        {
+          "question": "What did Kempegowda build around Bengaluru?",
+          "options": [
+            "Watch Towers",
+            "Airports",
+            "Factories",
+            "Railways"
+          ],
+          "answer": "Watch Towers"
+        },
+        {
+          "question": "Kempegowda belonged to which empire?",
+          "options": [
+            "Vijayanagara Empire",
+            "Maurya Empire",
+            "British Empire",
+            "Mughal Empire"
+          ],
+          "answer": "Vijayanagara Empire"
+        }
+      ]
+    },
+
+    "hero2": {
+      "name": "Kuvempu",
+
+      "district": "shivamogga",
+
+      "storyEnglish": "Kuvempu was one of the greatest poets and writers of Karnataka. His full name was Kuppali Venkatappa Puttappa. He received the title Rashtrakavi because of his contribution to Kannada literature and culture. Kuvempu strongly believed in equality, humanity, and education for everyone. His famous work Ramayana Darshanam became one of the most respected literary works in Kannada. He inspired students to love Kannada language and preserve Karnataka culture. Kuvempu also served as the Vice Chancellor of Mysore University. His poems and writings continue to inspire generations of readers and students across Karnataka.",
+
+      "storyKannada": "ಕುವೆಂಪು ಕರ್ನಾಟಕದ ಶ್ರೇಷ್ಠ ಕವಿ ಮತ್ತು ಲೇಖಕರಲ್ಲಿ ಒಬ್ಬರು. ಅವರ ಪೂರ್ಣ ಹೆಸರು ಕುಪ್ಪಳ್ಳಿ ವೆಂಕಟಪ್ಪ ಪುಟ್ಟಪ್ಪ. ಕನ್ನಡ ಸಾಹಿತ್ಯ ಮತ್ತು ಸಂಸ್ಕೃತಿಗೆ ನೀಡಿದ ಮಹತ್ವದ ಕೊಡುಗೆಯಿಗಾಗಿ ಅವರಿಗೆ ರಾಷ್ಟ್ರಕವಿ ಎಂಬ ಬಿರುದು ಲಭಿಸಿತು. ಸಮಾನತೆ, ಮಾನವತೆ ಮತ್ತು ಶಿಕ್ಷಣವನ್ನು ಅವರು ಬಹಳವಾಗಿ ನಂಬಿದ್ದರು. ಅವರ ಪ್ರಸಿದ್ಧ ಕೃತಿ ರಾಮಾಯಣ ದರ್ಶನಂ ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅತ್ಯಂತ ಗೌರವ ಪಡೆದ ಕೃತಿಗಳಲ್ಲೊಂದು. ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಕರ್ನಾಟಕದ ಸಂಸ್ಕೃತಿಯನ್ನು ಪ್ರೀತಿಸಲು ಅವರು ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಪ್ರೇರೇಪಿಸಿದರು. ಅವರು ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯದ ಕುಲಪತಿಯಾಗಿಯೂ ಸೇವೆ ಸಲ್ಲಿಸಿದರು.",
+
+      "statueLocation": "Kuvempu Memorial, Kuppalli, Shivamogga, Karnataka",
+
+      "quiz": [
+        {
+          "question": "Who is called Rashtrakavi?",
+          "options": [
+            "Kuvempu",
+            "Rajkumar",
+            "Basavanna",
+            "Kempegowda"
+          ],
+          "answer": "Kuvempu"
+        },
+        {
+          "question": "What is Kuvempu's full name?",
+          "options": [
+            "Kuppali Venkatappa Puttappa",
+            "Kengal Hanumanthaiah",
+            "Shivaram Karanth",
+            "Masti Iyengar"
+          ],
+          "answer": "Kuppali Venkatappa Puttappa"
+        },
+        {
+          "question": "Which language did Kuvempu promote?",
+          "options": [
+            "Kannada",
+            "Hindi",
+            "Tamil",
+            "English"
+          ],
+          "answer": "Kannada"
+        }
+      ]
+    },
+
+    "hero3": {
+      "name": "Dr. Rajkumar",
+
+      "district": "bengaluru",
+
+      "storyEnglish": "Dr. Rajkumar was a legendary actor and singer in Kannada cinema. He acted in more than 200 movies and became one of the most loved actors in Karnataka. People admired him not only for his acting but also for his simplicity, discipline, and respect for Kannada culture. His movies often taught moral values, patriotism, honesty, and kindness. Rajkumar's songs and performances are still remembered by millions of fans. He received many awards including the Dadasaheb Phalke Award. Even today people lovingly call him Annavru, meaning elder brother.",
+
+      "storyKannada": "ಡಾ. ರಾಜಕುಮಾರ್ ಕನ್ನಡ ಚಿತ್ರರಂಗದ ದಂತಕಥೆಯ ನಟ ಮತ್ತು ಗಾಯಕರು. ಅವರು 200 ಕ್ಕೂ ಹೆಚ್ಚು ಸಿನಿಮಾಗಳಲ್ಲಿ ಅಭಿನಯಿಸಿ ಕರ್ನಾಟಕದ ಜನರ ಮನ ಗೆದ್ದರು. ಅವರ ಸರಳತೆ, ಶಿಸ್ತು ಮತ್ತು ಕನ್ನಡ ಸಂಸ್ಕೃತಿಯ ಮೇಲಿನ ಪ್ರೀತಿ ಜನರನ್ನು ಪ್ರೇರೇಪಿಸಿತು. ಅವರ ಸಿನಿಮಾಗಳು ನೈತಿಕ ಮೌಲ್ಯಗಳು, ದೇಶಭಕ್ತಿ ಮತ್ತು ಒಳ್ಳೆಯ ಜೀವನದ ಸಂದೇಶಗಳನ್ನು ನೀಡುತ್ತವೆ. ಅವರ ಹಾಡುಗಳು ಮತ್ತು ಅಭಿನಯ ಇಂದಿಗೂ ಜನಪ್ರಿಯವಾಗಿವೆ. ಅವರಿಗೆ ದಾದಾಸಾಹೇಬ್ ಫಾಲ್ಕೆ ಪ್ರಶಸ್ತಿ ಸೇರಿದಂತೆ ಅನೇಕ ಗೌರವಗಳು ದೊರಕಿವೆ. ಅಭಿಮಾನಿಗಳು ಅವರನ್ನು ಪ್ರೀತಿಯಿಂದ ಅಣ್ಣಾವ್ರು ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+
+      "statueLocation": "Dr. Rajkumar Memorial, Kanteerava Studio, Bengaluru",
+
+      "quiz": [
+        {
+          "question": "Who acted in 200+ Kannada movies?",
+          "options": [
+            "Dr. Rajkumar",
+            "Yash",
+            "Darshan",
+            "Puneeth"
+          ],
+          "answer": "Dr. Rajkumar"
+        },
+        {
+          "question": "What was Rajkumar lovingly called?",
+          "options": [
+            "Annavru",
+            "Boss",
+            "Hero",
+            "Master"
+          ],
+          "answer": "Annavru"
+        },
+        {
+          "question": "Which award did Rajkumar receive?",
+          "options": [
+            "Dadasaheb Phalke Award",
+            "Oscar",
+            "Grammy",
+            "Nobel Prize"
+          ],
+          "answer": "Dadasaheb Phalke Award"
+        }
+      ]
+    },
+
+    "hero4": {
+      "name": "Rani Chennamma",
+
+      "district": "belagavi",
+
+      "storyEnglish": "Rani Chennamma was the brave queen of Kittur and one of the first women freedom fighters of India. She fought courageously against British rule when they tried to capture her kingdom. Even during difficult times, she never gave up protecting her people and land. Her bravery and leadership inspired many people across Karnataka and India. Rani Chennamma became a symbol of courage, patriotism, and strength. Today students learn about her inspiring life and remember her as a fearless queen who stood against injustice.",
+
+      "storyKannada": "ರಾಣಿ ಚೆನ್ನಮ್ಮ ಕಿತ್ತೂರಿನ ಶೂರ ರಾಣಿ ಮತ್ತು ಭಾರತದ ಮೊದಲ ಮಹಿಳಾ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿಯರಲ್ಲಿ ಒಬ್ಬರು. ಬ್ರಿಟಿಷರು ಅವರ ರಾಜ್ಯವನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ಅವರು ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿದರು. ಕಷ್ಟಗಳ ನಡುವೆಯೂ ತಮ್ಮ ಜನರನ್ನು ಮತ್ತು ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಲು ಅವರು ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ. ಅವರ ಸಾಹಸ ಮತ್ತು ನಾಯಕತ್ವ ಕರ್ನಾಟಕದ ಜನರಿಗೆ ದೊಡ್ಡ ಪ್ರೇರಣೆಯಾಯಿತು. ರಾಣಿ ಚೆನ್ನಮ್ಮ ಧೈರ್ಯ, ದೇಶಭಕ್ತಿ ಮತ್ತು ಶಕ್ತಿಯ ಪ್ರತೀಕವಾಗಿ ನೆನಪಾಗಿದ್ದಾರೆ. ಇಂದಿಗೂ ವಿದ್ಯಾರ್ಥಿಗಳು ಅವರ ಜೀವನದಿಂದ ಪ್ರೇರಣೆ ಪಡೆಯುತ್ತಾರೆ.",
+
+      "statueLocation": "Kittur Fort, Belagavi, Karnataka",
+
+      "quiz": [
+        {
+          "question": "Who fought against British rule in Kittur?",
+          "options": [
+            "Rani Chennamma",
+            "Kempegowda",
+            "Rajkumar",
+            "Basavanna"
+          ],
+          "answer": "Rani Chennamma"
+        },
+        {
+          "question": "Rani Chennamma was queen of which place?",
+          "options": [
+            "Kittur",
+            "Delhi",
+            "Mysuru",
+            "Mumbai"
+          ],
+          "answer": "Kittur"
+        },
+        {
+          "question": "Rani Chennamma is remembered for her?",
+          "options": [
+            "Bravery",
+            "Painting",
+            "Business",
+            "Music"
+          ],
+          "answer": "Bravery"
+        }
+      ]
+    },
+
+    "hero5": {
+      "name": "S. Nijalingappa",
+
+      "district": "chitradurga",
+
+      "storyEnglish": "S. Nijalingappa was an important leader who played a major role in the unification of Karnataka. He worked hard to bring all Kannada-speaking regions together into one state. He later served as the Chief Minister of Karnataka and focused on education, development, and unity among people. Nijalingappa believed in honesty, discipline, and public service. His leadership helped strengthen Karnataka politically and culturally. People remember him as a dedicated leader who worked for the welfare and progress of Karnataka.",
+
+      "storyKannada": "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪ ಕರ್ನಾಟಕ ಏಕೀಕರಣದಲ್ಲಿ ಮಹತ್ವದ ಪಾತ್ರವಹಿಸಿದ ನಾಯಕರು. ಕನ್ನಡ ಮಾತನಾಡುವ ಪ್ರದೇಶಗಳನ್ನು ಒಂದೇ ರಾಜ್ಯವಾಗಿ ಒಕ್ಕೂಟಗೊಳಿಸಲು ಅವರು ಶ್ರಮಿಸಿದರು. ನಂತರ ಅವರು ಕರ್ನಾಟಕದ ಮುಖ್ಯಮಂತ್ರಿಯಾಗಿಯೂ ಸೇವೆ ಸಲ್ಲಿಸಿದರು. ಶಿಕ್ಷಣ, ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಜನರ ಏಕತೆಯಿಗಾಗಿ ಅವರು ಕೆಲಸ ಮಾಡಿದರು. ಪ್ರಾಮಾಣಿಕತೆ, ಶಿಸ್ತು ಮತ್ತು ಜನಸೇವೆಯನ್ನು ಅವರು ಬಹಳವಾಗಿ ನಂಬಿದ್ದರು. ಅವರ ನಾಯಕತ್ವ ಕರ್ನಾಟಕದ ರಾಜಕೀಯ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಬಲವನ್ನು ಹೆಚ್ಚಿಸಿತು. ಕರ್ನಾಟಕದ ಪ್ರಗತಿಗಾಗಿ ಶ್ರಮಿಸಿದ ನಾಯಕನಾಗಿ ಅವರನ್ನು ಜನರು ಸ್ಮರಿಸುತ್ತಾರೆ.",
+
+      "statueLocation": "S. Nijalingappa Memorial, Chitradurga, Karnataka",
+
+      "quiz": [
+        {
+          "question": "Who helped unify Karnataka?",
+          "options": [
+            "S. Nijalingappa",
+            "Rajkumar",
+            "Kuvempu",
+            "Basavanna"
+          ],
+          "answer": "S. Nijalingappa"
+        },
+        {
+          "question": "Which position did Nijalingappa serve?",
+          "options": [
+            "Chief Minister",
+            "President",
+            "Governor",
+            "Judge"
+          ],
+          "answer": "Chief Minister"
+        },
+        {
+          "question": "What value did Nijalingappa believe in?",
+          "options": [
+            "Honesty",
+            "Violence",
+            "War",
+            "Greed"
+          ],
+          "answer": "Honesty"
+        }
+      ]
+    },
+
+    "hero6": {
+      "name": "Tipu Sultan",
+
+      "district": "mysuru",
+
+      "storyEnglish": "Tipu Sultan, known as the Tiger of Mysore, was a brave ruler of the Kingdom of Mysore. He is famous for his resistance against the British East India Company. He modernized his army with rockets and strong military strategies, making him one of the earliest innovators of rocket warfare. Tipu Sultan also focused on improving agriculture, trade, and administration in his kingdom. He built strong forts and maintained diplomatic relations with foreign countries like France. His bravery and leadership made him a legendary figure in Karnataka history.",
+
+      "storyKannada": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ‘ಮೈಸೂರಿನ ಹುಲಿ’ ಎಂದು ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ. ಅವರು ಮೈಸೂರು ರಾಜ್ಯದ ಧೈರ್ಯಶಾಲಿ ರಾಜರಾಗಿದ್ದರು. ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿಯ ವಿರುದ್ಧ ಅವರು ತೀವ್ರವಾಗಿ ಹೋರಾಡಿದರು. ಅವರು ರಾಕೆಟ್ ತಂತ್ರಜ್ಞಾನವನ್ನು ಸೇನೆಯಲ್ಲಿ ಬಳಸಿದ ಮೊದಲ ರಾಜರಲ್ಲಿ ಒಬ್ಬರು. ಕೃಷಿ, ವ್ಯಾಪಾರ ಮತ್ತು ಆಡಳಿತವನ್ನು ಸುಧಾರಿಸಲು ಅವರು ಅನೇಕ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಂಡರು. ಅವರ ಧೈರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ ಅವರನ್ನು ಇತಿಹಾಸದಲ್ಲಿ ಮಹಾನ್ ವ್ಯಕ್ತಿಯಾಗಿ ಮಾಡಿದೆ.",
+
+      "statueLocation": "Tipu Sultan Summer Palace, Bengaluru / Mysuru region",
+
+      "quiz": [
+        {
+          "question": "What is Tipu Sultan known as?",
+          "options": [
+            "Tiger of Mysore",
+            "Lion of India",
+            "King of Delhi",
+            "Warrior of Deccan"
+          ],
+          "answer": "Tiger of Mysore"
+        },
+        {
+          "question": "Which technology did Tipu Sultan use in warfare?",
+          "options": [
+            "Rockets",
+            "Tanks",
+            "Airplanes",
+            "Cannons only"
+          ],
+          "answer": "Rockets"
+        },
+        {
+          "question": "Against whom did he fight?",
+          "options": [
+            "British",
+            "French",
+            "Portuguese",
+            "Mughals"
+          ],
+          "answer": "British"
+        }
+      ]
+    },
+
+    "hero7": {
+      "name": "Onake Obavva",
+
+      "district": "chitradurga",
+
+      "storyEnglish": "Onake Obavva was a brave woman from Chitradurga in Karnataka. She is famous for her courage during the attack on Chitradurga fort by Hyder Ali's forces. When enemy soldiers tried to enter the fort through a small opening, she single-handedly stopped them using a wooden pestle (Onake). She killed several soldiers silently and protected the fort without any weapon training. Her bravery became a symbol of courage and quick thinking. She is remembered as one of the most fearless women in Karnataka history.",
+
+      "storyKannada": "ಒನಕೆ ಓಬವ್ವ ಚಿತ್ತದುರ್ಗದ ಧೈರ್ಯಶಾಲಿ ಮಹಿಳೆ. ಹೈದರ್ ಅಲಿ ಸೇನೆ ಚಿತ್ತದುರ್ಗ ಕೋಟೆಗೆ ದಾಳಿ ಮಾಡಿದಾಗ ಅವರು ಅದ್ಭುತ ಧೈರ್ಯ ತೋರಿಸಿದರು. ಶತ್ರು ಸೈನಿಕರು ಸಣ್ಣ ರಂಧ್ರದ ಮೂಲಕ ಕೋಟೆಗೆ ಪ್ರವೇಶಿಸಲು ಯತ್ನಿಸಿದಾಗ, ಅವರು ಒನಕೆಯನ್ನು ಬಳಸಿ ಅವರನ್ನು ತಡೆದರು. ಅವರು ಒಬ್ಬರೇ ಅನೇಕ ಸೈನಿಕರನ್ನು ನಿಶ್ಯಬ್ದವಾಗಿ ಕೊಂದು ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದರು. ಅವರ ಧೈರ್ಯ ಇಂದಿಗೂ ಕರ್ನಾಟಕದ ಹೆಮ್ಮೆಯ ಸಂಕೇತವಾಗಿದೆ.",
+
+      "statueLocation": "Chitradurga Fort, Karnataka",
+
+      "quiz": [
+        {
+          "question": "Which fort is associated with Onake Obavva?",
+          "options": [
+            "Chitradurga Fort",
+            "Mysore Fort",
+            "Bengaluru Fort",
+            "Bidar Fort"
+          ],
+          "answer": "Chitradurga Fort"
+        },
+        {
+          "question": "What weapon did she use?",
+          "options": [
+            "Wooden pestle (Onake)",
+            "Sword",
+            "Bow",
+            "Gun"
+          ],
+          "answer": "Wooden pestle (Onake)"
+        },
+        {
+          "question": "Who attacked the fort?",
+          "options": [
+            "Hyder Ali’s army",
+            "British army",
+            "Mughal army",
+            "Portuguese army"
+          ],
+          "answer": "Hyder Ali’s army"
+        }
+      ]
+    },
+
+    "hero8": {
+      "name": "Madhvacharya",
+
+      "district": "udupi",
+
+      "storyEnglish": "Madhvacharya was a great philosopher and founder of the Dvaita school of Vedanta. He was born in Udupi region of Karnataka. He strongly believed in dualism, teaching that the soul and God are separate entities. Madhvacharya traveled across India to spread his teachings and debated with many scholars. He established eight monasteries called 'Ashta Mathas' in Udupi, which are still active today. His teachings influenced spirituality and philosophy in India deeply.",
+
+      "storyKannada": "ಮಧ್ವಾಚಾರ್ಯರು ದ್ವೈತ ವೇದಾಂತದ ಸ್ಥಾಪಕರಾಗಿದ್ದರು. ಅವರು ಉಡುಪಿಯಲ್ಲಿ ಜನಿಸಿದರು. ಆತ್ಮ ಮತ್ತು ಪರಮಾತ್ಮ ವಿಭಿನ್ನವೆಂದು ಅವರು ಬೋಧಿಸಿದರು. ಅವರು ಭಾರತದಾದ್ಯಂತ ಸಂಚಾರ ಮಾಡಿ ತಮ್ಮ ತತ್ವವನ್ನು ಹರಡಿದರು. ಉಡುಪಿಯಲ್ಲಿ ‘ಅಷ್ಟ ಮಠಗಳನ್ನು’ ಸ್ಥಾಪಿಸಿದರು. ಅವರ ತತ್ವಶಾಸ್ತ್ರ ಇಂದಿಗೂ ಧಾರ್ಮಿಕ ಜೀವನದಲ್ಲಿ ಮಹತ್ವ ಹೊಂದಿದೆ.",
+
+      "statueLocation": "Sri Krishna Matha, Udupi, Karnataka",
+
+      "quiz": [
+        {
+          "question": "Where was Madhvacharya born?",
+          "options": [
+            "Udupi",
+            "Mysuru",
+            "Bengaluru",
+            "Belagavi"
+          ],
+          "answer": "Udupi"
+        },
+        {
+          "question": "Which philosophy did he found?",
+          "options": [
+            "Dvaita Vedanta",
+            "Advaita Vedanta",
+            "Yoga",
+            "Bhakti Movement"
+          ],
+          "answer": "Dvaita Vedanta"
+        },
+        {
+          "question": "How many Mathas did he establish?",
+          "options": [
+            "Eight",
+            "Four",
+            "Ten",
+            "Twelve"
+          ],
+          "answer": "Eight"
+        }
+      ]
+    },
+
+    "hero9": {
+      "name": "Allama Prabhu",
+
+      "district": "chitradurga",
+
+      "storyEnglish": "Allama Prabhu was a great saint and mystic poet of Karnataka. He was one of the leading figures of the Bhakti movement and Vachana literature. His teachings focused on inner spirituality and self-realization. He believed that God exists within every human being and rejected blind rituals. Allama Prabhu’s vachanas inspired social equality and spiritual awareness. He was closely associated with the Lingayat movement and Basavanna’s ideology.",
+
+      "storyKannada": "ಅಲ್ಲಮ ಪ್ರಭು ಕರ್ನಾಟಕದ ಮಹಾನ್ ಸಂತ ಮತ್ತು ಕವಿಯಾಗಿದ್ದರು. ಅವರು ಭಕ್ತಿ ಚಳವಳಿಯ ಪ್ರಮುಖ ವ್ಯಕ್ತಿಗಳಲ್ಲಿ ಒಬ್ಬರು. ಅವರ ವಚನಗಳು ಆಂತರಿಕ ಆಧ್ಯಾತ್ಮಿಕತೆ ಮತ್ತು ಸ್ವಯಂ ಅರಿವಿನ ಬಗ್ಗೆ ಹೇಳುತ್ತವೆ. ದೇವರು ಪ್ರತಿಯೊಬ್ಬರಲ್ಲಿಯೂ ಇದ್ದಾನೆ ಎಂದು ಅವರು ನಂಬಿದ್ದರು. ಅವರು ಅಂಧಾಚಾರಗಳನ್ನು ವಿರೋಧಿಸಿದರು. ಅವರ ಉಪದೇಶಗಳು ಸಾಮಾಜಿಕ ಸಮಾನತೆಯನ್ನು ಉತ್ತೇಜಿಸಿದವು.",
+
+      "statueLocation": "Kudala Sangama / Karnataka cultural sites",
+
+      "quiz": [
+        {
+          "question": "What was Allama Prabhu known for?",
+          "options": [
+            "Vachana literature",
+            "War strategy",
+            "Architecture",
+            "Trade"
+          ],
+          "answer": "Vachana literature"
+        },
+        {
+          "question": "What did he promote?",
+          "options": [
+            "Inner spirituality",
+            "Kingdom expansion",
+            "Tax system",
+            "Army training"
+          ],
+          "answer": "Inner spirituality"
+        },
+        {
+          "question": "Which movement was he part of?",
+          "options": [
+            "Bhakti movement",
+            "Freedom movement",
+            "Modern movement",
+            "Trade movement"
+          ],
+          "answer": "Bhakti movement"
+        }
+      ]
+    },
+
+    "hero10": {
+      "name": "Krishna Deva Raya",
+
+      "district": "hampi",
+
+      "storyEnglish": "Krishna Deva Raya was one of the greatest emperors of the Vijayanagara Empire. He ruled during the golden age of South India and made Hampi a powerful and wealthy capital. He was known for his strong administration, military victories, and support for art and literature. Many poets like Tenali Ramakrishna and Ashtadiggajas flourished in his court. He expanded his kingdom through successful wars and maintained peace and prosperity. His rule is considered one of the most important periods in Karnataka history.",
+
+      "storyKannada": "ಕೃಷ್ಣದೇವರಾಯರು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಮಹಾನ್ ಚಕ್ರವರ್ತಿಯಾಗಿದ್ದರು. ಅವರ ಕಾಲವನ್ನು ದಕ್ಷಿಣ ಭಾರತದ ಸುವರ್ಣಯುಗ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಅವರು ಹಂಪಿಯನ್ನು ಶಕ್ತಿಶಾಲಿ ಮತ್ತು ಸಮೃದ್ಧ ರಾಜಧಾನಿಯಾಗಿ ನಿರ್ಮಿಸಿದರು. ಕಲೆ, ಸಾಹಿತ್ಯ ಮತ್ತು ಸಂಸ್ಕೃತಿಗೆ ಅವರು ದೊಡ್ಡ ಬೆಂಬಲ ನೀಡಿದರು. ಅವರ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಅನೇಕ ಕವಿಗಳು ಮತ್ತು ಕಲಾವಿದರು ಬೆಳೆಯಿದರು. ಅವರ ಆಡಳಿತ ಇಂದಿಗೂ ಇತಿಹಾಸದಲ್ಲಿ ಮಹತ್ವ ಹೊಂದಿದೆ.",
+
+      "statueLocation": "Hampi, Vijayanagara, Karnataka",
+
+      "quiz": [
+        {
+          "question": "Krishna Deva Raya ruled which empire?",
+          "options": [
+            "Vijayanagara Empire",
+            "Mughal Empire",
+            "Maurya Empire",
+            "Chola Empire"
+          ],
+          "answer": "Vijayanagara Empire"
+        },
+        {
+          "question": "What was Hampi during his rule?",
+          "options": [
+            "Capital city",
+            "Village",
+            "Port only",
+            "Forest area"
+          ],
+          "answer": "Capital city"
+        },
+        {
+          "question": "What is his period known as?",
+          "options": [
+            "Golden Age",
+            "Dark Age",
+            "Modern Age",
+            "Stone Age"
+          ],
+          "answer": "Golden Age"
+        }
+      ]
+    }
+
+  }
+}

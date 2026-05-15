@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#FFF8E1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!-- TITLE -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🧠 Heritage Quiz"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="#0D47A1"
+            android:paddingBottom="20dp"/>
+
+        <!-- QUESTION NUMBER -->
+
+        <TextView
+            android:id="@+id/questionNumberText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Question 1 / 3"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#1565C0"
+            android:layout_marginBottom="15dp"/>
+
+        <!-- QUESTION CARD -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            android:padding="20dp"
+            android:elevation="4dp">
+
+            <TextView
+                android:id="@+id/questionText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Loading Question..."
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="#000000"/>
+
+        </LinearLayout>
+
+        <!-- OPTIONS -->
+
+        <Button
+            android:id="@+id/option1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Option 1"
+            android:textSize="18sp"
+            android:layout_marginTop="25dp"/>
+
+        <Button
+            android:id="@+id/option2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Option 2"
+            android:textSize="18sp"
+            android:layout_marginTop="12dp"/>
+
+        <Button
+            android:id="@+id/option3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Option 3"
+            android:textSize="18sp"
+            android:layout_marginTop="12dp"/>
+
+        <Button
+            android:id="@+id/option4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Option 4"
+            android:textSize="18sp"
+            android:layout_marginTop="12dp"/>
+
+        <!-- BACK BUTTON -->
+
+        <Button
+            android:id="@+id/backQuizButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="⬅ Back"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#1565C0"
+            android:layout_marginTop="30dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

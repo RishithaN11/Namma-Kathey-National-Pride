@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#FBC02D">
+
+    <!-- TITLE -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="📚 Namma Kathey"
+        android:textSize="44sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:letterSpacing="0.08"
+        android:shadowColor="#88000000"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="8"
+        android:fontFamily="sans-serif-medium"/>
+
+    <!-- SUBTITLE -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stories of Karnataka Heroes"
+        android:textSize="18sp"
+        android:textColor="#FFFDE7"
+        android:layout_marginTop="12dp"
+        android:alpha="0.95"/>
+
+</LinearLayout>

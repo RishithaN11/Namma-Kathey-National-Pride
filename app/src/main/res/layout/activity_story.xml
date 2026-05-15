@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF3E0"
+    android:padding="16dp">
+
+    <!-- TOP BUTTONS -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/languageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🌐 ಕನ್ನಡ"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#E65100"
+            android:layout_marginEnd="10dp" />
+
+        <Button
+            android:id="@+id/readButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🔊 Read"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6A1B9A" />
+
+    </LinearLayout>
+
+    <!-- STORY CARD -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:padding="18dp"
+        android:elevation="4dp"
+        android:layout_marginTop="18dp">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/storyText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Story loading..."
+                android:textSize="19sp"
+                android:textColor="#333333"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="10dp" />
+
+        </ScrollView>
+
+    </LinearLayout>
+
+    <!-- QUIZ BUTTON -->
+    <Button
+        android:id="@+id/btnTakeQuiz"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="🧠 Take Quiz"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#FB8C00"
+        android:layout_marginTop="16dp" />
+
+    <!-- STATUE BUTTON (IMPORTANT) -->
+    <Button
+        android:id="@+id/btnViewStatue"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="🏛 Find Statue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#2E7D32"
+        android:layout_marginTop="12dp" />
+
+    <!-- BACK BUTTON -->
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:text="⬅ Back"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#6D4C41"
+        android:layout_marginTop="10dp" />
+
+</LinearLayout>
